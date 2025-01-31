@@ -23,8 +23,8 @@ Ensure that you have the following installed on your system:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/gokul-gopan-k/financial_qa_bot.git
-cd financial_qa_bot
+git clone https://github.com/gokul-gopan-k/Financial_qa_bot.git
+cd Financial_qa_bot
 ```
 2. **Create a virtual environment (recommended):**
 
