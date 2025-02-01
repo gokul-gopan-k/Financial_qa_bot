@@ -56,8 +56,10 @@ Run the following command to start the application:
 ```bash
 python app.py
 ```
+2. **Open local url**
+Open the local url generated in step 1 in the browser.
 
-2. **Interacting with the Interface:**
+3. **Interacting with the Interface:**
 After running the above command, a Gradio interface will open in your browser.
 
 - Upload PDF: Upload a PDF file containing the financial statement.
