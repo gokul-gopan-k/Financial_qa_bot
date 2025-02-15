@@ -1,6 +1,6 @@
 # Interactive Financial Data QA Bot
 
-This project provides an interactive QA bot for extracting insights from Profit & Loss (P&L) financial statements in PDF format. It utilizes advanced machine learning models for document parsing, table extraction, and question answering.
+This project provides an interactive QA bot utilising RAG (Retreive Augment Generate) based functionality for extracting insights from Profit & Loss (P&L) financial statements in PDF format. It utilizes advanced machine learning models for document parsing, table extraction, and question answering.
 
 ## Features
 
